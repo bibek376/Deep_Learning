@@ -1,4 +1,4 @@
 # Deep_Learning
 
-I. Regression
+I. Regression<br>
 II. SVM
